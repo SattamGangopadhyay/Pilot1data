@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[84.81564111297666,25.913214622394126]},"properties":{"State":"Bihar","District":"Saran","xcoord":84.81564111297665,"ycoord":25.913214622394126}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[85.36077119016626,25.777708702290024]},"properties":{"State":"Bihar","District":"Vaishali","xcoord":85.36077119016626,"ycoord":25.777708702290024}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[86.22235987283047,26.40236473230825]},"properties":{"State":"Bihar","District":"Madhubani","xcoord":86.22235987283047,"ycoord":26.402364732308246}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[85.2278303162127,25.45731508609385]},"properties":{"State":"Bihar","District":"Patna","xcoord":85.2278303162127,"ycoord":25.45731508609385}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[86.04780208809393,26.087191755436535]},"properties":{"State":"Bihar","District":"Darbhanga","xcoord":86.04780208809393,"ycoord":26.087191755436535}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[86.11290147393785,25.48836021378317]},"properties":{"State":"Bihar","District":"Begusarai","xcoord":86.11290147393785,"ycoord":25.48836021378317}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[73.32789402977511,19.360012009132678]},"properties":{"State":"Maharashtra","District":"Thane","xcoord":73.32789402977511,"ycoord":19.360012009132674}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[72.83382023008231,18.980664728640626]},"properties":{"State":"Bihar","District":"Mumbai","xcoord":72.83382023008231,"ycoord":18.98066472864063}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[72.88233730176223,19.139336585466097]},"properties":{"State":"Maharashtra","District":"Mumbai Suburban","xcoord":72.88233730176223,"ycoord":19.139336585466097}}
+]}
